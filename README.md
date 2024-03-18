@@ -1,4 +1,4 @@
-# AI-Odyssey-A-Comprehensive-Journey-through-Generative-Technologies-
+# AI Odyssey A Comprehensive Journey through Generative Technologies
 
 
 Welcome to AI-Odyssey a Generative AI Playground, where creativity knows no bounds! This pet project is a journey into the realm of generative AI, exploring the capabilities of cutting-edge technologies such as **Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases, and more.**
